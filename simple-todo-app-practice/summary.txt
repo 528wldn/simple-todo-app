@@ -1,0 +1,3 @@
+Checkbox- handleChange(id): flip ‘completed’ state of the one with the id 
+deleteButton- delTodo(id): set state newly except the one with the id
+submitButton - addTodoItem(title): set state newly adding new one with title.
